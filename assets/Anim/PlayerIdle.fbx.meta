@@ -1,0 +1,79 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1a9202de-29a7-4dc5-967a-5e461ee8b009",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "ae2f8": {
+      "importer": "gltf-animation",
+      "uuid": "1a9202de-29a7-4dc5-967a-5e461ee8b009@ae2f8",
+      "displayName": "",
+      "id": "ae2f8",
+      "name": "Skelet.c|idle.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 9.875
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "d50e0": {
+      "importer": "gltf-scene",
+      "uuid": "1a9202de-29a7-4dc5-967a-5e461ee8b009@d50e0",
+      "displayName": "",
+      "id": "d50e0",
+      "name": "PlayerIdle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Skelet.c|idle",
+        "duration": 9.875,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Skelet.c|idle",
+            "from": 0,
+            "to": 9.875,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "1a9202de-29a7-4dc5-967a-5e461ee8b009@d50e0",
+    "assetFinder": {
+      "meshes": [],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "1a9202de-29a7-4dc5-967a-5e461ee8b009@d50e0"
+      ]
+    }
+  }
+}

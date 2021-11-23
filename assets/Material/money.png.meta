@@ -1,0 +1,43 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "660304a4-83e0-484b-a5b3-1937e1b7a237",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "660304a4-83e0-484b-a5b3-1937e1b7a237@6c48a",
+      "displayName": "money",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "660304a4-83e0-484b-a5b3-1937e1b7a237"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "660304a4-83e0-484b-a5b3-1937e1b7a237@6c48a",
+    "compressSettings": {
+      "useCompressTexture": false
+    }
+  }
+}

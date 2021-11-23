@@ -1,0 +1,83 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "316174d9-c3ae-4a3c-a89e-8e33debd6a97",
+  "files": [],
+  "subMetas": {
+    "233b8": {
+      "importer": "gltf-mesh",
+      "uuid": "316174d9-c3ae-4a3c-a89e-8e33debd6a97@233b8",
+      "displayName": "",
+      "id": "233b8",
+      "name": "Stickman_heads_sphere.023.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "316174d9-c3ae-4a3c-a89e-8e33debd6a97@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 29
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4e6d4": {
+      "importer": "gltf-scene",
+      "uuid": "316174d9-c3ae-4a3c-a89e-8e33debd6a97@4e6d4",
+      "displayName": "",
+      "id": "4e6d4",
+      "name": "stickMand.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "316174d9-c3ae-4a3c-a89e-8e33debd6a97@4e6d4",
+    "assetFinder": {
+      "meshes": [
+        "316174d9-c3ae-4a3c-a89e-8e33debd6a97@233b8"
+      ],
+      "skeletons": [
+        "316174d9-c3ae-4a3c-a89e-8e33debd6a97@438fe"
+      ],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "316174d9-c3ae-4a3c-a89e-8e33debd6a97@4e6d4"
+      ]
+    },
+    "normals": 2,
+    "meshOptimizer": false,
+    "dumpMaterials": false,
+    "tangents": 2,
+    "morphNormals": 1,
+    "useVertexColors": true
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c6a110ac-069e-47ed-ad8a-d711fd5cfd87",
+  "files": [
+    "__original-animation-0.cconb"
+  ],
+  "subMetas": {
+    "15681": {
+      "importer": "gltf-animation",
+      "uuid": "c6a110ac-069e-47ed-ad8a-d711fd5cfd87@15681",
+      "displayName": "",
+      "id": "15681",
+      "name": "Skelet.c|Jumping.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 0.7083333134651184
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "233b8": {
+      "importer": "gltf-mesh",
+      "uuid": "c6a110ac-069e-47ed-ad8a-d711fd5cfd87@233b8",
+      "displayName": "",
+      "id": "233b8",
+      "name": "Stickman_heads_sphere.023.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "c6a110ac-069e-47ed-ad8a-d711fd5cfd87@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 36
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11b97": {
+      "importer": "gltf-scene",
+      "uuid": "c6a110ac-069e-47ed-ad8a-d711fd5cfd87@11b97",
+      "displayName": "",
+      "id": "11b97",
+      "name": "Jumping.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Skelet.c|Jumping",
+        "duration": 0.7083333134651184,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Skelet.c|Jumping",
+            "from": 0,
+            "to": 0.7083333134651184,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "c6a110ac-069e-47ed-ad8a-d711fd5cfd87@11b97",
+    "assetFinder": {
+      "meshes": [
+        "c6a110ac-069e-47ed-ad8a-d711fd5cfd87@233b8"
+      ],
+      "skeletons": [
+        "c6a110ac-069e-47ed-ad8a-d711fd5cfd87@438fe"
+      ],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "c6a110ac-069e-47ed-ad8a-d711fd5cfd87@11b97"
+      ]
+    }
+  }
+}

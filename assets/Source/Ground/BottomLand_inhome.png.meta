@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "fa74863f-bf43-48ca-944e-e1a99fcc9d13",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "BottomLand_inhome": {
+      "ver": "1.0.6",
+      "uuid": "0bc08bf8-fb22-4975-a6eb-7d78ae47d751",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "fa74863f-bf43-48ca-944e-e1a99fcc9d13",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 295,
+      "height": 68,
+      "rawWidth": 295,
+      "rawHeight": 68,
+      "borderTop": 16,
+      "borderBottom": 10,
+      "borderLeft": 15,
+      "borderRight": 14,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "fa74863f-bf43-48ca-944e-e1a99fcc9d13@6c48a",
+      "displayName": "BottomLand_inhome",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "fa74863f-bf43-48ca-944e-e1a99fcc9d13"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "fa74863f-bf43-48ca-944e-e1a99fcc9d13@6c48a"
+  }
+}

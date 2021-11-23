@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "ca88515d-b906-44b7-b1d4-fcad71cf0d0e",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "MiddleLand_inhome": {
+      "ver": "1.0.6",
+      "uuid": "3183598d-6ccc-4136-97b5-56f2e19f846e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ca88515d-b906-44b7-b1d4-fcad71cf0d0e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 162,
+      "height": 163,
+      "rawWidth": 162,
+      "rawHeight": 163,
+      "borderTop": 20,
+      "borderBottom": 20,
+      "borderLeft": 20,
+      "borderRight": 20,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "ca88515d-b906-44b7-b1d4-fcad71cf0d0e@6c48a",
+      "displayName": "MiddleLand_inhome",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "ca88515d-b906-44b7-b1d4-fcad71cf0d0e"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "ca88515d-b906-44b7-b1d4-fcad71cf0d0e@6c48a"
+  }
+}

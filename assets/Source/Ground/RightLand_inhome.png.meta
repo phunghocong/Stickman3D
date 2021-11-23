@@ -1,0 +1,68 @@
+{
+  "ver": "1.0.21",
+  "importer": "image",
+  "imported": true,
+  "uuid": "4db72f5e-cf6c-4315-b9b8-43b827114ed7",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "RightLand_inhome": {
+      "ver": "1.0.6",
+      "uuid": "a7bbc78c-bfc4-4d8f-a1d5-ee128b0255f4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4db72f5e-cf6c-4315-b9b8-43b827114ed7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 69,
+      "height": 214,
+      "rawWidth": 69,
+      "rawHeight": 214,
+      "borderTop": 7,
+      "borderBottom": 64,
+      "borderLeft": 13,
+      "borderRight": 12,
+      "subMetas": {},
+      "imported": false,
+      "files": [],
+      "userData": {},
+      "displayName": "",
+      "id": "",
+      "name": ""
+    },
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "4db72f5e-cf6c-4315-b9b8-43b827114ed7@6c48a",
+      "displayName": "RightLand_inhome",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "4db72f5e-cf6c-4315-b9b8-43b827114ed7"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "hasAlpha": true,
+    "type": "texture",
+    "redirect": "4db72f5e-cf6c-4315-b9b8-43b827114ed7@6c48a"
+  }
+}
